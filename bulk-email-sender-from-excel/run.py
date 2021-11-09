@@ -7,8 +7,8 @@ import smtplib
 import time
 
 # change these as per use
-your_email = "fifa61295@gmail.com"
-your_password = "fifa2552"
+your_email = "your_email@gmail.com"
+your_password = "your_password"
 
 # establishing connection with gmail
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
